@@ -1,5 +1,4 @@
-#Link: 
-#Password:
+#Link: https://fifa-dashboard-i77y.onrender.com
 
 import pandas as pd
 import dash
