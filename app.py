@@ -1,4 +1,4 @@
-#Link:
+#Link: 
 #Password:
 
 import pandas as pd
@@ -94,4 +94,4 @@ def update_match_output(selected_year):
     return ""
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
